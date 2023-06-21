@@ -1,0 +1,74 @@
+*{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 25px;
+    padding: 0;
+}
+body{
+    background-color: #E25822;
+}
+h1{
+    text-align: center;
+    color: rgb(241, 70, 70);
+    font-family: serif;
+    font-size: 70px;
+    background-color: rgba(44, 43, 43, 0.274);
+}
+h2{
+    text-align: center;
+    text-decoration:underline;
+    text-decoration-color: #E25822; 
+}
+.how{
+    text-align: justify;
+    background-color: rgb(248, 231, 211);
+    border-radius: .5rem;
+    font-family: cursive;
+
+}
+.impala{
+    text-align: justify;
+    background-color: rgb(248, 231, 211);
+    border-radius: .5rem;
+    font-family: cursive;
+}
+.Endemoniado{
+    background-color: rgb(248, 231, 211);
+    border-radius: .5rem;
+    text-align: justify;
+    font-family: cursive;
+}
+.futuro{
+    background-color: rgb(248, 231, 211);
+    border-radius: .5rem;
+    font-family: cursive;
+    text-align: justify;
+}
+.frase{
+    background-color: rgb(248, 231, 211);
+    border-radius: .5rem;
+    font-family: cursive;
+    text-align: justify;
+}
+.sentimiento{
+    background-color: rgb(248, 231, 211);
+    border-radius: .5rem;
+    font-family: cursive;
+    text-align: justify;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+iframe{
+    display: flex;
+    align-items: center;
+    height: 400px;
+    width: 885px;
+}
+.footer{
+    height: 100%;
+    background-color: rgba(106, 105, 105, 0.878);
+    text-align: center;
+    font-size: 17px;
+}
